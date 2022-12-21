@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumedhnvda
-- 👀 I’m interested in Android , fullstack AI and devops
+- 👀 I’m interested in Android,fullstack,AI and devops
 - 🌱 I’m currently learning SMVTIM Udupi
 - 📫 reach me @sumedhnavuda on twitter 
 
